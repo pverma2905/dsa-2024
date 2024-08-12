@@ -1,0 +1,6 @@
+Time complexity check the line of code + loop count
+time complexity depend on input
+
+space complexity how many variable , loop, function, data size
+
+Big o notation:- it denote the complexity

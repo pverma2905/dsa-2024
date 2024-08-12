@@ -1,0 +1,32 @@
+data structure->
+
+1)primitive data structure
+2)non primitve data structure
+
+non lenear->
+1)array 
+2)list
+3)files
+
+list is divided in to linear list and non linear list
+1)linear list
+2)non-linear list
+
+1)linear list diveide in two type:-
+
+a)stack
+b)queue
+
+2)non-linear
+
+a)graph
+b)trees
+
+
+Each have operation:-
+1)traversal(read)
+2)insertion
+3)delete
+4)searching
+5)sorting
+6)merging

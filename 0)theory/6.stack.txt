@@ -1,0 +1,6 @@
+stack and queue, array are come under linear data structure
+
+two methods
+1)push()
+2)pop()
+

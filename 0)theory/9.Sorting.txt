@@ -1,0 +1,6 @@
+Sorting:-
+1)selection sort:->find smallest no. then next  smallest no, again next
+complexity:O(n**2)
+
+2)insertion sort:-
+

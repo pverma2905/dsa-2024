@@ -1,0 +1,11 @@
+recursion :- it call multiple times without any loop
+
+without loop we call a function multple times
+
+recursion has two type:-
+1)direct recursion(basic recursion)
+2)inderect recursion
+
+direct recursion:- it call own multiple times
+
+inderect recursion:- it call from external call

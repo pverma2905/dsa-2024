@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let data = [];
+        let currentSize = data.length;
+        let maxSize = 5;
+        function push(x) {
+            if (currentSize < maxSize) {
+                data[currentSize] = x;
+                currentSize=currentSize+1;
+            }
+        }
+
+        function pop() {
+            if (currentSize > 0) {
+                currentSize=currentSize-1;
+                data.length = currentSize
+            }
+        }
+        push(10)
+        push(20)
+        push(30)
+        push(40)
+        push(50)
+        push(60)
+
+        console.log("push",data)
+        
+
+        pop()
+        pop()
+        // pop()
+        // pop()
+        console.log("pop",data)
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

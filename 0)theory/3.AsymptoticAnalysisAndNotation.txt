@@ -1,0 +1,25 @@
+****************Asymptotic Analysis************
+
+=>find which datastructure is best to resolve the problem
+=>in which we use Asymptotic notation
+=>by which space and time complexity
+
+
+Asymptotic Notation:-
+1)bigONoatation
+2)Theta Notation
+3)Omeaga Notation
+
+time complexity depend on input
+
+=>suppose have 10 input
+n=10
+
+f(n) = 5n*n + 6n +12
+n*n = double loop me 5 line rahinge
+n = single loop me 6 line rahinge
+12 = line rahinge
+
+f(10)= 5*10*10+6+12=572 complexity
+ actual complexity is 500 else we remove
+

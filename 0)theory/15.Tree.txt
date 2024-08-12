@@ -1,0 +1,10 @@
+it is not linear data structure
+
+1)binary Tree
+2)binary search Tree
+
+Depth First search:-
+1)Preorder:- top to bottom
+2)Inorder
+3)PostOrder
+

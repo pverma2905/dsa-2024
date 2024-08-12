@@ -1,0 +1,17 @@
+linear data structure is 
+1)array
+2)stack
+3)queue
+
+1)queue??
+two position are :-
+1)front  - add - first element in queue
+2)rear/back - remove  - last element in queue
+
+ two methods :-
+
+ 1)enque - add item - front
+ 3)deque - remove item - rear
+
+
+

@@ -1,0 +1,11 @@
+Searching to find out an element
+
+it is two type
+
+1)linear Searching-> it can check each element 
+complexity: f(N) = O(N)
+
+2)Binary Searching->-> it is must to be an sorted
+it is two type
+1)iterative Search
+2)recursive search
